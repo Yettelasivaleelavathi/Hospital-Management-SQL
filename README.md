@@ -97,6 +97,6 @@ Hospital-Management-SQL/
 
 **Leela**
 
-GitHub: https://github.com/your-yettela Sivaleelavathi
+GitHub: https://github.com/yettela Sivaleelavathi
 
 ## ⭐ If you found this project useful, don't forget to star the repository!
